@@ -4,28 +4,28 @@
       "_id": 1,
       "name": "Maggie",
       "phone": "7XXXXXX1121",
-      "date": 4,
+      "date": 1,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 2,
       "name": "Helen",
       "phone": "7XXXXXX8248",
-      "date": 6,
+      "date": 2,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 3,
       "name": "Kristine",
       "phone": "7XXXXXX4459",
-      "date": 2,
+      "date": 3,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 4,
       "name": "Elinor",
       "phone": "7XXXXXX7890",
-      "date": 2,
+      "date": 4,
       "prize": "Сертификат на покупки"
     },
     {
@@ -39,42 +39,42 @@
       "_id": 6,
       "name": "Barker",
       "phone": "7XXXXXX8025",
-      "date": 4,
+      "date": 6,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 7,
       "name": "Marlene",
       "phone": "7XXXXXX5052",
-      "date": 4,
+      "date": 1,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 8,
       "name": "Carrillo",
       "phone": "7XXXXXX9490",
-      "date": 6,
+      "date": 2,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 9,
       "name": "Katelyn",
       "phone": "7XXXXXX4413",
-      "date": 7,
+      "date": 3,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 10,
       "name": "Brooks",
       "phone": "7XXXXXX3568",
-      "date": 3,
+      "date": 4,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 11,
       "name": "Dee",
       "phone": "7XXXXXX7478",
-      "date": 2,
+      "date": 5,
       "prize": "Сертификат на покупки"
     },
     {
@@ -88,98 +88,98 @@
       "_id": 13,
       "name": "Hunter",
       "phone": "7XXXXXX6390",
-      "date": 6,
+      "date": 1,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 14,
       "name": "Jodi",
       "phone": "7XXXXXX2499",
-      "date": 3,
+      "date": 2,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 15,
       "name": "Schwartz",
       "phone": "7XXXXXX6501",
-      "date": 6,
+      "date": 3,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 16,
       "name": "Cross",
       "phone": "7XXXXXX6503",
-      "date": 3,
+      "date": 4,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 17,
       "name": "Beck",
       "phone": "7XXXXXX1628",
-      "date": 2,
+      "date": 5,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 18,
       "name": "Meyer",
       "phone": "7XXXXXX4223",
-      "date": 2,
+      "date": 6,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 19,
       "name": "Coffey",
       "phone": "7XXXXXX5258",
-      "date": 4,
+      "date": 1,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 20,
       "name": "Cochran",
       "phone": "7XXXXXX9942",
-      "date": 5,
+      "date": 2,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 21,
       "name": "Nina",
       "phone": "7XXXXXX9883",
-      "date": 7,
+      "date": 3,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 22,
       "name": "Carlson",
       "phone": "7XXXXXX4576",
-      "date": 5,
+      "date": 4,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 23,
       "name": "Lindsey",
       "phone": "7XXXXXX6646",
-      "date": 3,
+      "date": 5,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 24,
       "name": "Lynch",
       "phone": "7XXXXXX4499",
-      "date": 3,
+      "date": 6,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 25,
       "name": "Boyer",
       "phone": "7XXXXXX5375",
-      "date": 4,
+      "date": 1,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 26,
       "name": "Aida",
       "phone": "7XXXXXX4854",
-      "date": 6,
+      "date": 2,
       "prize": "Сертификат на покупки"
     },
     {
@@ -193,21 +193,21 @@
       "_id": 28,
       "name": "Belinda",
       "phone": "7XXXXXX8730",
-      "date": 6,
+      "date": 4,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 29,
       "name": "Miranda",
       "phone": "7XXXXXX7908",
-      "date": 7,
+      "date": 5,
       "prize": "Сертификат на покупки"
     },
     {
       "_id": 30,
       "name": "Carmella",
       "phone": "7XXXXXX9851",
-      "date": 5,
+      "date": 6,
       "prize": "Сертификат на покупки"
     }
   ]
