@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "_id": 1,
       "name": "Maggie",
@@ -209,6 +208,474 @@
       "phone": "7XXXXXX9851",
       "date": 5,
       "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 31,
+      "name": "Hill",
+      "phone": "7XXXXXX4184",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 32,
+      "name": "Cleveland",
+      "phone": "7XXXXXX7774",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 33,
+      "name": "Callahan",
+      "phone": "7XXXXXX3401",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 34,
+      "name": "Jamie",
+      "phone": "7XXXXXX4255",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 35,
+      "name": "Gillespie",
+      "phone": "7XXXXXX6421",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 36,
+      "name": "Lynnette",
+      "phone": "7XXXXXX4963",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 37,
+      "name": "Noel",
+      "phone": "7XXXXXX2368",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 38,
+      "name": "Davidson",
+      "phone": "7XXXXXX8059",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 39,
+      "name": "Celia",
+      "phone": "7XXXXXX3527",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 40,
+      "name": "Fulton",
+      "phone": "7XXXXXX5267",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 41,
+      "name": "Jeanine",
+      "phone": "7XXXXXX2565",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 42,
+      "name": "Jami",
+      "phone": "7XXXXXX5268",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 43,
+      "name": "Huffman",
+      "phone": "7XXXXXX6456",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 44,
+      "name": "Inez",
+      "phone": "7XXXXXX3117",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 45,
+      "name": "Deidre",
+      "phone": "7XXXXXX3929",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 46,
+      "name": "Clarice",
+      "phone": "7XXXXXX2830",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 47,
+      "name": "Mckinney",
+      "phone": "7XXXXXX4119",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 48,
+      "name": "Cooke",
+      "phone": "7XXXXXX5943",
+      "date": 3,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 49,
+      "name": "Angelina",
+      "phone": "7XXXXXX9937",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 50,
+      "name": "Jarvis",
+      "phone": "7XXXXXX6304",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 51,
+      "name": "Valarie",
+      "phone": "7XXXXXX4082",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 52,
+      "name": "Olive",
+      "phone": "7XXXXXX8996",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 53,
+      "name": "Vinson",
+      "phone": "7XXXXXX6883",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 54,
+      "name": "Francisca",
+      "phone": "7XXXXXX3813",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 55,
+      "name": "Suzette",
+      "phone": "7XXXXXX4690",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 56,
+      "name": "Alisa",
+      "phone": "7XXXXXX1361",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 57,
+      "name": "Keller",
+      "phone": "7XXXXXX9058",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 58,
+      "name": "Tyler",
+      "phone": "7XXXXXX6433",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 59,
+      "name": "Chandler",
+      "phone": "7XXXXXX6955",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 60,
+      "name": "Farmer",
+      "phone": "7XXXXXX1292",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 61,
+      "name": "Langley",
+      "phone": "7XXXXXX8861",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 62,
+      "name": "Terrie",
+      "phone": "7XXXXXX2122",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 63,
+      "name": "Iva",
+      "phone": "7XXXXXX6045",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 64,
+      "name": "Matilda",
+      "phone": "7XXXXXX7757",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 65,
+      "name": "Herman",
+      "phone": "7XXXXXX2130",
+      "date": 4,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 66,
+      "name": "Reynolds",
+      "phone": "7XXXXXX4077",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 67,
+      "name": "Natalia",
+      "phone": "7XXXXXX3138",
+      "date": 3,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 68,
+      "name": "Juana",
+      "phone": "7XXXXXX1995",
+      "date": 3,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 69,
+      "name": "Newton",
+      "phone": "7XXXXXX3918",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 70,
+      "name": "Claudette",
+      "phone": "7XXXXXX4854",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 71,
+      "name": "Dale",
+      "phone": "7XXXXXX6835",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 72,
+      "name": "Hurst",
+      "phone": "7XXXXXX5805",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 73,
+      "name": "Tillman",
+      "phone": "7XXXXXX2155",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 74,
+      "name": "Willis",
+      "phone": "7XXXXXX6155",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 75,
+      "name": "Lindsay",
+      "phone": "7XXXXXX4026",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 76,
+      "name": "Cameron",
+      "phone": "7XXXXXX6636",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 77,
+      "name": "Davenport",
+      "phone": "7XXXXXX9526",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 78,
+      "name": "Harrington",
+      "phone": "7XXXXXX2634",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 79,
+      "name": "Candace",
+      "phone": "7XXXXXX2462",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 80,
+      "name": "Tate",
+      "phone": "7XXXXXX9680",
+      "date": 3,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 81,
+      "name": "Christian",
+      "phone": "7XXXXXX9377",
+      "date": 7,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 82,
+      "name": "Sherry",
+      "phone": "7XXXXXX5526",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 83,
+      "name": "Robles",
+      "phone": "7XXXXXX6556",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 84,
+      "name": "Cherry",
+      "phone": "7XXXXXX9685",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 85,
+      "name": "Phillips",
+      "phone": "7XXXXXX7207",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 86,
+      "name": "Carla",
+      "phone": "7XXXXXX7612",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 87,
+      "name": "Morgan",
+      "phone": "7XXXXXX4775",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 88,
+      "name": "Wagner",
+      "phone": "7XXXXXX8918",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 89,
+      "name": "Sandoval",
+      "phone": "7XXXXXX6040",
+      "date": 3,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 90,
+      "name": "Virgie",
+      "phone": "7XXXXXX3265",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 91,
+      "name": "Adela",
+      "phone": "7XXXXXX7062",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 92,
+      "name": "Jerri",
+      "phone": "7XXXXXX6466",
+      "date": 6,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 93,
+      "name": "Berg",
+      "phone": "7XXXXXX4837",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 94,
+      "name": "Melisa",
+      "phone": "7XXXXXX9164",
+      "date": 1,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 95,
+      "name": "Linda",
+      "phone": "7XXXXXX2845",
+      "date": 5,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 96,
+      "name": "Mildred",
+      "phone": "7XXXXXX9493",
+      "date": 2,
+      "prize": "Сертификат на покупки"
+    },
+    {
+      "_id": 97,
+      "name": "Riddle",
+      "phone": "7XXXXXX2489",
+      "date": 3,
+      "prize": "Сертификат на покупки"
     }
   ]
-}
